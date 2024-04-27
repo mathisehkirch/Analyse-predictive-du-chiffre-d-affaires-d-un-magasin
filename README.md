@@ -4,7 +4,7 @@
 Le projet vise à utiliser la prévision de séries temporelles pour prédire les ventes en magasin à partir des données de Corporación Favorita, une grande chaîne d'épiceries basée en Équateur.
 
 ## Dataset
-Nous avons utilisé le jeu de données fourni par Kaggle, comprenant des informations sur les dates, les magasins, les articles, les promotions et les ventes unitaires. Des données concernant les métadonnées des magasins, le prix quotidien du pétrole et les vacances y sont aussi inclus. Ces jeux de données nous ont permis de pratiquer nos compétences en apprentissage automatique avec un ensemble de données accessible.
+Nous avons utilisé le jeu de données fourni par Kaggle, comprenant des informations sur les dates, les magasins, les articles, les promotions et les ventes unitaires. Des données concernant les métadonnées des magasins, le prix quotidien du pétrole et les vacances y sont aussi inclus. 
 
 Lien : [Dataset Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
 
