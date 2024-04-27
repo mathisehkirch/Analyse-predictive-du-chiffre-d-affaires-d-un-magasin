@@ -16,7 +16,7 @@ Après avoir développé notre modèle en interne sans recourir à du code exter
 ## Utilisation de l'application
 Une application streamlit devrait démarrer localement après l'exécution du script Python. Ouvrez l'application avec le lien créé dans la dernière cellule du script. Utilisez votre "URL externe" au format '12.123.123.123', trouvée dans le fichier /logs.txt créé dans votre environnement lors de l'exécution du script, comme mot de passe pour streamlit. Téléchargez vos données pour une prédiction en utilisant notre modèle.
 
-
+##
 Membres du groupe : EHKIRCH Mathis ALLAM Simon
 
 Licence du projet : Ce projet est publié sous licence GNU GPL, ce qui signifie qu'il est open-source et que quiconque peut accéder au code source, le modifier et le redistribuer sous certaines conditions.
