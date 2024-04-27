@@ -9,7 +9,7 @@ Nous avons utilisé le jeu de données fourni par Kaggle, comprenant des informa
 Lien : [Dataset Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
 
 ## Résultats
-Après avoir développé notre modèle en interne sans recourir à du code externe, nous avons obtenu des résultats prometteurs sur l'échantillon de test de Kaggle, avec un score final de 0.5. Ci-dessous une capture d'écran de notre classement sur Kaggle :
+Après avoir développé notre modèle en interne sans recourir à du code externe, nous avons obtenu des résultats prometteurs sur l'échantillon de test de Kaggle, avec un score final de ~0.5. Ci-dessous une capture d'écran de notre classement sur Kaggle :
 
 <img width="1127" alt="Screenshot 2024-04-27 at 23 00 06" src="https://github.com/mathisehkirch/projetml/assets/161879747/f5975e05-3bf6-489a-9ecf-a18db3c97482">
 
